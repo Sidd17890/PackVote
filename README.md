@@ -5,9 +5,9 @@
   
   ### *AI-Powered Travel Itinerary Planner with Smart Budgeting*
   
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername/PackVote?style=for-the-badge&color=blue)](https://github.com/yourusername/PackVote/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/yourusername/PackVote?style=for-the-badge&color=blue)](https://github.com/yourusername/PackVote/network)
-  [![GitHub issues](https://img.shields.io/github/issues/yourusername/PackVote?style=for-the-badge&color=red)](https://github.com/yourusername/PackVote/issues)
+  [![GitHub stars](https://img.shields.io/github/stars/yourusername/PackVote?style=for-the-badge&color=blue)](https://github.com/Sidd17890/PackVote/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/yourusername/PackVote?style=for-the-badge&color=blue)](https://github.com/Sidd17890/PackVote/network)
+  [![GitHub issues](https://img.shields.io/github/issues/yourusername/PackVote?style=for-the-badge&color=red)](https://github.com/Sidd17890/PackVote/issues)
   [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
   
