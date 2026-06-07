@@ -50,37 +50,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-<div align="center">
-  <a href="https://packvote-demo.com">
-    <img src="https://img.shields.io/badge/🌐_View_Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
-  </a>
-  <a href="https://github.com/yourusername/PackVote/wiki">
-    <img src="https://img.shields.io/badge/📚_Read_Documentation-4CAF50?style=for-the-badge&logo=gitbook&logoColor=white" alt="Documentation">
-  </a>
-  <a href="https://packvote-api-docs.com">
-    <img src="https://img.shields.io/badge/🔌_API_Docs-009688?style=for-the-badge&logo=swagger&logoColor=white" alt="API Docs">
-  </a>
-</div>
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://via.placeholder.com/400x250/4A90E2/ffffff?text=Home+Page" alt="Home Page"/></td>
-      <td><img src="https://via.placeholder.com/400x250/50C878/ffffff?text=Search+Results" alt="Search Results"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://via.placeholder.com/400x250/FF6B6B/ffffff?text=Itinerary+Builder" alt="Itinerary Builder"/></td>
-      <td><img src="https://via.placeholder.com/400x250/FFD93D/ffffff?text=Budget+Tracker" alt="Budget Tracker"/></td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
